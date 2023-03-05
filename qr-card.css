@@ -31,6 +31,21 @@ p{
     color: hsl(220, 15%, 55%);
     margin-top: -1rem;
 }
+a{
+    text-decoration: overline;
+    color: hsl(216deg 95% 58%);
+}
+a:hover{
+    color: hsl(220, 15%, 55%);
+}
+footer{
+    color: hsl(216deg 95% 58%);
+}
+footer:hover{
+    color: black;
+}
+
+/*Responsiveness*/
 @media screen and (max-width: 375px) {
     img{
         width: 16rem;
