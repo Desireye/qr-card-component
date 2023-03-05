@@ -10,11 +10,12 @@ body{
 main{
     background:  hsl(0, 0%, 100%);
     width: 17rem;
-    height: 28rem;
+    height: 30rem;
     padding: 1% 1%;
     border-radius: 1.5rem;
     display: grid;    
     place-items: center;
+    box-shadow: 4px 5px 15px rgba(185, 185, 203, 0.808);
 }
 img{
     width: 17rem;
@@ -26,8 +27,8 @@ h3{
 }
 p{
     text-align: center;
-    font-size: 0.9rem;
-    padding: 5.2%;
+    font-size: 0.95rem;
+    padding: 5.17%;
     color: hsl(220, 15%, 55%);
     margin-top: -1rem;
 }
