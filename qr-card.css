@@ -40,7 +40,7 @@ a:hover{
 }
 footer{
     color: hsl(216deg 95% 58%);
-    bottom: 1%;
+    margin-top: -3rem;
 }
 footer:hover{
     color: black;
